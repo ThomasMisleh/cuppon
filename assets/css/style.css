@@ -1,0 +1,30 @@
+body {
+    font-family: 'roboto', sans-serif;
+}
+
+.img1 {
+    width: 100px;
+}
+
+.card-title {
+    font-weight: 300;
+}
+
+.card-text {
+    color: #707070;
+}
+
+.color-precio {
+    color: #707070;
+}
+
+.fas {
+    color: #707070;
+}
+
+hr {
+    color: #707070A0;
+}
+/* .leyenda {
+    color: #FFFFFF;
+} */
